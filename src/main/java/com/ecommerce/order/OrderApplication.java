@@ -2,7 +2,8 @@ package com.ecommerce.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-/** Comment **/
+/** Comment Line1
+ * Comment Line2 **/
 @SpringBootApplication
 public class OrderApplication {
 
