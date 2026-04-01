@@ -11,6 +11,9 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+/**
+ * This is for documenting the Cart Controller
+ */
 @RestController
 @RequestMapping("/api/cart")
 @RequiredArgsConstructor
